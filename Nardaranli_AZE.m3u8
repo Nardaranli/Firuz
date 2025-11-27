@@ -1,0 +1,466 @@
+#EXTM3U
+#EXTINF:0,001 AzTV
+#EXTGRP:AZERBAYCAN
+https://str.yodacdn.net/azertv/index.m3u8?token=eyJpcCI6IjQ1LjE1LjQzLjI0MiIsInVhIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwOS4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiZXhwIjoxNzY0MjQxMDMwLCJqdGkiOiJhZjJiZTZiZjNkNzAwNmZlIn0=.57/iMpT4myZ0Pj+DIqGij5diQb8fbw/V4w6S4qEWAIs=
+#EXTINF:0,002 Azad Azerbaycan
+#EXTGRP:AZERBAYCAN
+http://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_720p1500kbps.m3u8
+#EXTINF:0,003 Space TV
+#EXTGRP:AZERBAYCAN
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
+#EXTINF:0,004 Xazar Tv
+#EXTGRP:AZERBAYCAN
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
+#EXTINF:0,005 BAKU TV
+#EXTGRP:AZERBAYCAN
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads\main/myvideo-az/baku-tv.m3u8
+#EXTINF:0,006 Ictimai TV
+#EXTGRP:AZERBAYCAN
+https://str.yodacdn.net/ictimaitele/index.m3u8?token=eyJpcCI6IjQ1LjE1LjQzLjI0MiIsInVhIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwOS4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiZXhwIjoxNzY0MjQxOTkwLCJqdGkiOiIwZTdmN2Y4Nzk5MTA1Yzg2In0=.cOKEI27qa2BmXzzZsmW7QgEyXjM6DoFSuaFRfPgKyOI=
+#EXTINF:0,007 Medeniyyet
+#EXTGRP:AZERBAYCAN
+https://str.yodacdn.net/medeniyyettele/index.m3u8?token=eyJpcCI6IjQ1LjE1LjQzLjI0MiIsInVhIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwOS4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiZXhwIjoxNzY0MjQxMTU1LCJqdGkiOiJkOWI4NGMwOGEzZTRjNzU2In0=.s5hJVDkkLjRqhWlNjjpIR/uBGu3exW4mmfcBM59v6jA=
+#EXTINF:0,008 Dunya
+#EXTGRP:AZERBAYCAN
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
+#EXTINF:0,009 KanalS
+#EXTGRP:AZERBAYCAN
+https://str.yodacdn.net/start/index.m3u8?token=eyJpcCI6IjQ1LjE1LjQzLjI0MiIsInVhIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwOS4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiZXhwIjoxNzY0MjQxOTkwLCJqdGkiOiIwZTdmN2Y4Nzk5MTA1Yzg2In0=.cOKEI27qa2BmXzzZsmW7QgEyXjM6DoFSuaFRfPgKyOI=
+#EXTINF:0,010 Real TV
+#EXTGRP:AZERBAYCAN
+https://str.yodacdn.net/real/index.m3u8?token=eyJpcCI6IjQ1LjE1LjQzLjI0MiIsInVhIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwOS4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiZXhwIjoxNzY0MjQxOTkwLCJqdGkiOiIwZTdmN2Y4Nzk5MTA1Yzg2In0=.cOKEI27qa2BmXzzZsmW7QgEyXjM6DoFSuaFRfPgKyOI=
+#EXTINF:0,011 ARB TV HD
+#EXTGRP:AZERBAYCAN
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb.m3u8
+#EXTINF:0,012 ARB 24 HD
+#EXTGRP:AZERBAYCAN
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-24.m3u8
+#EXTINF:0,013 ARB Gunes
+#EXTGRP:AZERBAYCAN
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
+#EXTINF:0,014 MTV Azerbaycan
+#EXTGRP:AZERBAYCAN
+https://str.yodacdn.net/mtvaz/index.m3u8?token=eyJpcCI6IjQ1LjE1LjQzLjI0MiIsInVhIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwOS4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiZXhwIjoxNzY0MjQxOTkwLCJqdGkiOiIwZTdmN2Y4Nzk5MTA1Yzg2In0=.cOKEI27qa2BmXzzZsmW7QgEyXjM6DoFSuaFRfPgKyOI=
+#EXTINF:0,015 Idman
+#EXTGRP:AZERBAYCAN
+https://str.yodacdn.net/idmantele/index.m3u8?token=eyJpcCI6IjQ1LjE1LjQzLjI0MiIsInVhIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwOS4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiZXhwIjoxNzY0MjQxODM5LCJqdGkiOiJkYWY0OWY2YmNhMmZiZTM0In0=./LwdzeqF61qP0MOn8fxcTfjNSVmrc9tnzGEiD2vyrfI=
+#EXTINF:0,016 CBC Sport
+#EXTGRP:AZERBAYCAN
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+#EXTINF:0,17 CBC AZ
+#EXTGRP:AZERBAYCAN
+https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
+#EXTINF:0,018 Kanal35
+#EXTGRP:AZERBAYCAN
+https://str.yodacdn.net/kanal35/index.m3u8?token=eyJpcCI6IjQ1LjE1LjQzLjI0MiIsInVhIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwOS4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiZXhwIjoxNzY0MjQxOTkwLCJqdGkiOiIwZTdmN2Y4Nzk5MTA1Yzg2In0=.cOKEI27qa2BmXzzZsmW7QgEyXjM6DoFSuaFRfPgKyOI=
+#EXTINF:0,020 Naxcivan Tv
+#EXTGRP:AZERBAYCAN
+https://str.yodacdn.net/ntv/index.m3u8?token=eyJpcCI6IjQ1LjE1LjQzLjI0MiIsInVhIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwOS4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiZXhwIjoxNzY0MjQxOTkwLCJqdGkiOiIwZTdmN2Y4Nzk5MTA1Yzg2In0=.cOKEI27qa2BmXzzZsmW7QgEyXjM6DoFSuaFRfPgKyOI=
+#EXTINF:0,019 Apa Tv
+#EXTGRP:AZERBAYCAN
+http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:0,021 Qafqaz Tv
+#EXTGRP:AZERBAYCAN
+https://str.yodacdn.net/qafkaz/index.m3u8?token=eyJpcCI6IjQ1LjE1LjQzLjI0MiIsInVhIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwOS4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiZXhwIjoxNzY0MjQxOTkwLCJqdGkiOiIwZTdmN2Y4Nzk5MTA1Yzg2In0=.cOKEI27qa2BmXzzZsmW7QgEyXjM6DoFSuaFRfPgKyOI=
+#EXTINF:0,022 Biznes Tv
+#EXTGRP:AZERBAYCAN
+https://str.yodacdn.net/biznestv/index.m3u8?token=eyJpcCI6IjQ1LjE1LjQzLjI0MiIsInVhIjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwOS4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiZXhwIjoxNzY0MjQxOTkwLCJqdGkiOiIwZTdmN2Y4Nzk5MTA1Yzg2In0=.cOKEI27qa2BmXzzZsmW7QgEyXjM6DoFSuaFRfPgKyOI=
+#EXTINF:0,024 Alvin Tv
+#EXTGRP:AZERBAYCAN
+http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
+#EXTINF:0,025 Star Tv
+#EXTGRP:AZERBAYCAN
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+#EXTINF:0,023 Ftv Tv
+#EXTGRP:AZERBAYCAN
+https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
+#EXTINF:0,026 Sehiyye Tv
+#EXTGRP:AZERBAYCAN
+https://cdn501.canlitv.vin/idmantv.m3u8?tkn=9v_NRmD2QXM0D1BhhslaaQ&amp;tms=1764254127&amp;hst=www.canlitv.vin&amp;ip=45.15.43.242&amp;utkn=e9f791fa742d78fdac86b3b8a7596d5f&amp;ch=idmantv-canli
+#EXTINF:0,Kanal D HD
+#EXTGRP:Turksat
+http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
+#EXTINF:0,Euro D
+#EXTGRP:Turksat
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:0,ATV
+#EXTGRP:Turksat
+http://hw1.jemtv.com/app/ATVHD/playlist.m3u8
+#EXTINF:0,ATV AVRUPA
+#EXTGRP:Turksat
+https://bozztv.com/inim03/live1/atvavrupa/playlist.m3u8
+#EXTINF:0,A2
+#EXTGRP:Turksat
+http://stream.tvcdn.net/eglence/a2.m3u8
+#EXTINF:0,STAR TV
+#EXTGRP:Turksat
+http://stream.tvcdn.net/ulusal/star-tv.m3u8
+#EXTINF:0,EURO STAR
+#EXTGRP:Turksat
+https://raw.githubusercontent.com/UzunMuhalefet/yayinlar/main/streams/best/eurostar.m3u8
+#EXTINF:0,SHOW TV
+#EXTGRP:Turksat
+http://stream.tvcdn.net/ulusal/show-tv.m3u8
+#EXTINF:0,SHOW TURK
+#EXTGRP:Turksat
+https://showturk.blutv.com/blutv_showturk2/live_720p2000000kbps/index.m3u8
+#EXTINF:0,SHOW MAX
+#EXTGRP:Turksat
+https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8
+#EXTINF:0,NOW
+#EXTGRP:Turksat
+https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+#EXTINF:0,KANAL 7
+#EXTGRP:Turksat
+http://stream.tvcdn.net/ulusal/kanal-7.m3u8
+#EXTINF:0,KANAL 7 AVRUPA
+#EXTGRP:Turksat
+http://stream.tvcdn.net/ulusal-yurt-disi/kanal-7-avrupa.m3u8
+#EXTINF:0,TV 8
+#EXTGRP:Turksat
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+#EXTINF:0,TV 8 INT
+#EXTGRP:Turksat
+https://bozztv.com/inim03/live1/tv8int/playlist.m3u8
+#EXTINF:0,TV 8.5
+#EXTGRP:Turksat
+http://stream.tvcdn.net/eglence/tv8-5.m3u8
+#EXTINF:0,TRT 1
+#EXTGRP:Turksat
+http://stream.tvcdn.net/ulusal/trt-1.m3u8
+#EXTINF:0,TEVE 2
+#EXTGRP:Turksat
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+#EXTINF:0,BEYAZ TV
+#EXTGRP:Turksat
+http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
+#EXTINF:0,TV 360
+#EXTGRP:Turksat
+http://stream.tvcdn.net/ulusal/360-tv.m3u8
+#EXTINF:0,TRT BELGESEL
+#EXTGRP:Turksat
+http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
+#EXTINF:0,AGRO tv
+#EXTGRP:Turksat
+http://stream.tvcdn.net/belgesel/agro-tv.m3u8
+#EXTINF:0,Ciftci
+#EXTGRP:Turksat
+http://stream.tvcdn.net/belgesel/ciftci-tv.m3u8
+#EXTINF:0,Cine5 Tv
+#EXTGRP:Turksat
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+#EXTINF:0,CINE 1 Tv
+#EXTGRP:Turksat
+http://stream.tvcdn.net/diger-eglence/cine-1.m3u8
+#EXTINF:0,TLC TV
+#EXTGRP:Turksat
+https://tlcdvr.blutv.com/blutv_tlc_dvr2/live_720p2000000kbps/index.m3u8
+#EXTINF:0,DMAX
+#EXTGRP:Turksat
+http://stream.tvcdn.net/eglence/dmax.m3u8
+#EXTINF:0,SUPER TURK TV
+#EXTGRP:Turksat
+http:\\stream.tvcdn.net\diger-eglence\superturk-max.m3u8
+#EXTINF:0,SABAN FILIM
+#EXTGRP:Turksat
+http://stream.tvcdn.net/diger-eglence/saban-tv.m3u8
+#EXTINF:0,HABER TURK
+#EXTGRP:Turksat
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+#EXTINF:0,HABER GLOBAL TV
+#EXTGRP:Turksat
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:0,CNN TÜRK
+#EXTGRP:Turksat
+https://new.cache-stream.workers.dev/stream/X_EWYemclKA/live.m3u8
+#EXTINF:0,Sahar Tv
+#EXTGRP:Dini
+https://nl2-cdn.sepehrtv.org/securelive3/saharazarsd/576p.m3u8?s=gZn7Vqz_9N337Owu8J10-A&amp;t=1764197610
+#EXTINF:0,Hadi TV3 (azrbaycanca)1
+#EXTGRP:Dini
+https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
+#EXTINF:0,Vilayet Az Tv
+#EXTGRP:Dini
+https://nl.livekadeh.com/hls2/vilayet.m3u8
+#EXTINF:0,Al Zahra TV
+#EXTGRP:Dini
+http://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:0,Kanal 12
+#EXTGRP:Dini
+https://live.artidijitalmedya.com/artidijital_kanal12/kanal12/playlist.m3u8
+#EXTINF:0,On4 Tv
+#EXTGRP:Dini
+https://edge1.socialsmart.tv/on4/bant1/playlist.m3u8
+#EXTINF:0,Kudus Tv
+#EXTGRP:Dini
+https://yayin30.haber100.com/live/kudustv/playlist.m3u8
+#EXTINF:0,Azerbaycan Urmia
+#EXTGRP:Dini
+https://lenz.splus.ir/PLTV\88888888/224/3221226800/index.m3u8
+#EXTINF:0,Sahand Tv
+#EXTGRP:Dini
+https://live-azd1108.telewebion.com/ek/sahand/live/576p/index.m3u8
+#EXTINF:0,Sabalan Tv
+#EXTGRP:Dini
+https://live-azd1119.telewebion.com/ek/sabalan/live/576p/index.m3u8
+#EXTINF:0,Zencan Tv
+#EXTGRP:Dini
+https://live-azd1103.telewebion.com/ek/eshragh/live/576p/index.m3u8
+#EXTINF:0,Karbala Beynulheremeyn
+#EXTGRP:Dini
+https://ak.imamhussein.live/imhtv6live/imhtv6.smil/imhtv6publish/imhtv6_source/chunks.m3u8
+#EXTINF:0,Imam Huseyn Tv
+#EXTGRP:Dini
+https://live.imamhossaintv.com/live/ih3.m3u8
+#EXTINF:0,Imam Huseyn 2
+#EXTGRP:Dini
+https://ak.imamhussein.live/imhtv2live/imhtv2.smil/imhtv2publish/imhtv2_480p/chunks.m3u8
+#EXTINF:0,ABALFAZL ABBAS
+#EXTGRP:Dini
+https://t.northtelecom.org/ABALFADHLTV.m3u8
+#EXTINF:0,BeytulAbbas
+#EXTGRP:Dini
+http://live.beitolabbas.tv/live/beitolabbastv.m3u8
+#EXTINF:0,Vilayet Fas
+#EXTGRP:Dini
+https://nl.livekadeh.com/hls2/velayattv_src.m3u8
+#EXTINF:0,Salam Tv
+#EXTGRP:Dini
+https://iptv.salaamtv.org/salaam/playlist2/index.m3u8
+#EXTINF:0,Quran Tv 
+#EXTGRP:Dini
+https://lenz.splus.ir/PLTV\88888888/224/3221226144/1.m3u8
+#EXTINF:0,Medine Tv
+#EXTGRP:Dini
+http://m.live.net.sa:1935/live/sunnah/chunklist_w364295954.m3u8
+#EXTINF:0,Mekke Tv
+#EXTGRP:Dini
+https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
+#EXTINF:0,Kudus Falastin
+#EXTGRP:Dini
+https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/7949/2021/09/08/1300.mp4/chunklist_w2059496197.m3u8
+#EXTINF:0,Al manar
+#EXTGRP:Dini
+https://manar.live/x.smil/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tabii Spor
+#EXTGRP:Futboll
+https://hlssssssss.verdimdalgayihocam.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
+#EXTINF:0,Bein Spor
+#EXTGRP:Futboll
+https://dga1op10s1u3lep.6058ef0157aa30.click/live/selcukobs1/playlist.m3u8
+#EXTINF:0,Bein sport Extra
+#EXTGRP:Futboll
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:0,Mact Futbol 1
+#EXTGRP:Futboll
+http://195.191.208.11:8087/udp/238.2.49.4:1234
+#EXTINF:0,Mact Futbol 2
+#EXTGRP:Futboll
+http://195.191.208.11:8087/udp/238.2.49.15:1234
+#EXTINF:0,Mact Futbol 3
+#EXTGRP:Futboll
+http://195.191.208.11:8087/udp/238.2.49.73:1234
+#EXTINF:0,Preimer Spor1
+#EXTGRP:Futboll
+https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
+#EXTINF:0,Preimer Sport 2
+#EXTGRP:Futboll
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
+#EXTINF:0,Preimer Sport 4
+#EXTGRP:Futboll
+https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
+#EXTINF:0,Preimer Sport 5
+#EXTGRP:Futboll
+https://cdn4.skygo.mn/live\disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
+#EXTINF:0,Turkmen Spor
+#EXTGRP:Futboll
+http://217.174.225.146/hls/ch004_720/index.m3u8
+#EXTINF:0,SETANTA SPORT 1 HD
+#EXTGRP:Futboll
+https://vod.splay.uz/live_splay/original/Setanta1HD/playlist.m3u8?rand=0.3198532320165396
+#EXTINF:0,Match 
+#EXTGRP:Futboll
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd\17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:0,Телеканал Футбол
+#EXTGRP:Futboll
+https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
+#EXTINF:0,Futbol Irib
+#EXTGRP:Futboll
+https://live-azd1103.telewebion.com/ek/sport3/live/1080p/index.m3u8
+#EXTINF:0,Sports Tv
+#EXTGRP:Futboll
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:0,Fanarbahce tv
+#EXTGRP:Futboll
+https://fbtv.fenerbahce.org/fenerbahcetv.stream/playlist.m3u8
+#EXTINF:0,REAL MADRID CINEVERSE
+#EXTGRP:Futboll
+http://176.65.146.237:8401/play/a0ak/index.m3u8
+#EXTINF:0,Mact Arena
+#EXTGRP:Futboll
+http://194.143.148.28:8080/MatchArena/index.m3u8
+#EXTINF:0,Mact Strana
+#EXTGRP:Futboll
+http://31.148.48.15/Match_Strana/index.m3u8
+#EXTINF:0,Mact Strana
+#EXTGRP:Futboll
+http://31.148.48.15/Match_Strana/index.m3u8
+#EXTINF:0,GALATASARAY SPOR
+#EXTGRP:Futboll
+https://owifavo5.rocketcdn.com/gstv/gstv/chunklist.m3u8
+#EXTINF:0,НТВ
+#EXTGRP:Rus
+https://livetv.mylifeisgood.net.ru/channels/ntvhd.m3u8
+#EXTINF:0,НТВ +1
+#EXTGRP:Rus
+http://cdn.ntv.ru/ntv1/playlist.m3u8
+#EXTINF:0,Auto plus
+#EXTGRP:Rus
+http://31.148.48.15/Avto_Plus/index.m3u8
+#EXTINF:0,Sport 1Futbol
+#EXTGRP:Rus
+https://176.116.105.82/Sport1_HD/index.m3u8
+#EXTINF:0,Первый канал 1
+#EXTGRP:Rus
+https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:0,РОССИЯ-1
+#EXTGRP:Rus
+http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
+#EXTINF:0,РОССИЯ-24
+#EXTGRP:Rus
+http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
+#EXTINF:0,РОССИЯ-К
+#EXTGRP:Rus
+https://edge02.odtv.az/o1/rtrkultura/playlist.m3u8
+#EXTINF:0,МИР
+#EXTGRP:Rus
+https://streaming.televizor-24-tochka.ru/live/22.m3u8
+#EXTINF:0,Мир 24 (1080p)
+#EXTGRP:Rus
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:0,Мир +2 (540p)
+#EXTGRP:Rus
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+#EXTINF:0,Мир +4 (540p)
+#EXTGRP:Rus
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:0,MIR +7
+#EXTGRP:Rus
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv7_2500/playlist.m3u8
+#EXTINF:0,Мир Белагорья (720p)
+#EXTGRP:Rus
+http://mirbelogorya.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:0,МИР сериал
+#EXTGRP:Rus
+https://woobl.ru/hls987/Mir_seriala.m3u8
+#EXTINF:0,НТВ 
+#EXTGRP:Rus
+https://tvcdnpotok.com/V7TZvdFo_J_F2syWLAqvpg/537/1713970578/index.m3u8
+#EXTINF:0,НТВ Мир
+#EXTGRP:Rus
+http://stream02.vnet.am/HTB/mono.m3u8
+#EXTINF:0,NTV-Pravo
+#EXTGRP:Rus
+https://mhzu4cmj63536bp.ngolpdkyoctjcddxshli469r.org/sunshine/AENcErPENETcxuuP2lQTzDzwWDMa7SSx2fyimeD1AfYIG_iIU3yNDSDHTN2xhSCQUudAa0dniVZGCcBvDe2yAShenzucXCGyZOnSdkJ1KTEY3-hmV4jgBrXsigMUGNOGkTijHrjpOBXTlCO9vte2TQI6ew7Eu6ARE9_st3oUAts/hls/index.m3u8
+#EXTINF:0,НТВ Сериал
+#EXTGRP:Rus
+http://91.205.199.3:80/ntvserial/index.m3u8
+#EXTINF:0,НТВ Стиль
+#EXTGRP:Rus
+https://mhzu4cmj63536bp.ngolpdkyoctjcddxshli469r.org/sunshine/ffhdpmbdwKFr1X6k_jXA6SI9OHkEGLe91BexmWMSN7CN-dH4pqQ4wi3CdIUIjV0k1Me1WFi45A5h1yCDPTlg2wLEaRBG-epXbuO5wKLh8NpvFFNFv9A4BIxH5BiO1XH6f8D1MFc-9KT6qac1VuigTwDeSHiEcSCfSuYYSAlHt_k/hls/index.m3u8
+#EXTINF:0,NTV-HIT
+#EXTGRP:Rus
+https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
+#EXTINF:0,НТВ +4
+#EXTGRP:Rus
+https://mhzu4cmj63536bp.ngolpdkyoctjcddxshli469r.org/sunshine/xSzounz_YFrXKo8p-1CXgbhv8LynmmBp2Pnfjc1nYoxJVkOL6iQDQE7VPFCsZcD7--trWtqjLubkBYRxpiOeQ46DWXGtRB57oSA3Lb7nXypbmkxAA6q5bxMwN25OBiNlOzN2j6pq7-HXfm281b5iBpExnbbb878JMUacdDd9Z3E/hls/index.m3u8
+#EXTINF:0,НТВ +6
+#EXTGRP:Rus
+https://63oa6gbllzujj5j.ngolpdkyoctjcddxshli469r.org/sunshine/9FsE_7uxZyAnYgkhuMh6GiA0zn-jriF907BBh8BLrPHqvkyPYLC7QyWwPKbjh7frbBR7qYcLjcmsd6fNk9y8sWh8fccyUcGJfpjjfBnNxGNddx8xe18ufEXesP4FXytzbf-SzY0tyABmiEJXIQ4mopAsBhc_ckUdMA1shB9zexw/hls/index.m3u8
+#EXTINF:0,НТВ +8
+#EXTGRP:Rus
+http://63oa6gbllzujj5j.ngolpdkyoctjcddxshli469r.org/sunshine/9FsE_7uxZyAnYgkhuMh6GiA0zn-jriF907BBh8BLrPHqvkyPYLC7QyWwPKbjh7frbBR7qYcLjcmsd6fNk9y8sWh8fccyUcGJfpjjfBnNxGNddx8xe18ufEXesP4FXytzbf-SzY0tyABmiEJXIQ4mopAsBhc_ckUdMA1shB9zexw/hls/index.m3u8
+#EXTINF:0,Nickelodeon HD
+#EXTGRP:MUTFILIM
+http://streaming.tv-teleport.ru/Nickelodeon/index.m3u8
+#EXTINF:0,О!
+#EXTGRP:MUTFILIM
+http://188.113.190.15/136/tracks-v1a1/index.m3u8
+#EXTINF:0,СТС Kids
+#EXTGRP:MUTFILIM
+http://45.159.74.13:80/DisneyChannel/tracks-v1a1/mono.m3u8
+#EXTINF:0,КАРУСЕЛЬ
+#EXTGRP:MUTFILIM
+http://s18209.cdn.ngenix.net/hls/CH_R01_KARUSEL/playlist.m3u8
+#EXTINF:0,Nupaqadi
+#EXTGRP:MUTFILIM
+https://static.filmskino.site/hls/trailers/9a--4yoG9CA.mp4/index.m3u8
+#EXTINF:0,MiNiKA GO
+#EXTGRP:MUTFILIM
+https://63oa6gbllzujj5j.ngolpdkyoctjcddxshli469r.org/sunshine/HrWP2kre2noCh8BGxW3Ww7c-DWz8TzS8jUxiNqzcfrH2MjjYk8QV2E4cI6VHAOOPj_0GlqF06ZPt1VqyofQ5v1Y1hWPHQa6AJzm2XcyIJQb5BC16W_fciL4WqLv-Q_y6whfO054YSCosSANKHt48GUGhavBa0vHIj-Qw9R3XZQw/hls/index.m3u8
+#EXTINF:0,MiNiKA COCUK
+#EXTGRP:MUTFILIM
+https://63oa6gbllzujj5j.ngolpdkyoctjcddxshli469r.org/sunshine/uSVkhi6g0-86ARcbCPBkQ7dZfeowqIP4xYIpGYuEBbuW_at_ilcf3g1ItEADNdmYlvMcwVkwJryfL8y-_YY4XAn9tcDVA6KdivVYer8FiOsip9iGFCrsQJDx8-2KSdMj7DnBU59mAaN7o8JEVj9UE_5dLlFm_ZtwyPVxuMhgwwU/hls/index.m3u8
+#EXTINF:0,TRT COCUK
+#EXTGRP:MUTFILIM
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,CARTON NETWORK TR
+#EXTGRP:MUTFILIM
+http:\\stream.tvcdn.net\cocuk-egitim\cartoon-network.m3u8
+#EXTINF:0,CARTON NETWORK ru
+#EXTGRP:MUTFILIM
+https:\\bkm.beetv.kz\btv\live\hls\000000015.m3u8
+#EXTINF:0,Детский мир
+#EXTGRP:MUTFILIM
+http://stream01.vnet.am/CartoonNetwork/mono.m3u8
+#EXTINF:0,Мульт
+#EXTGRP:MUTFILIM
+http://stream01.vnet.am/Mult/mono.m3u8
+#EXTINF:0,В Гостях у сказки (1080p)
+#EXTGRP:MUTFILIM
+https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
+#EXTINF:0,Лёва (1080p)
+#EXTGRP:MUTFILIM
+https://strm.yandex.ru/kal/leva/leva0.m3u8
+#EXTINF:0,Тамыр (576p)
+#EXTGRP:MUTFILIM
+https://bsttv.bonus-tv.ru/cdn/tamyr/playlist.m3u8
+#EXTINF:0,Nicecoleden
+#EXTGRP:MUTFILIM
+http://79.124.21.250:9981/play/Nikelodeon/index.m3u8
+#EXTINF:0,KRAL POP
+#EXTGRP:MUSIC
+http://stream.tvcdn.net/muzik/kral-pop-tv.m3u8
+#EXTINF:0,DREAM TURK
+#EXTGRP:MUSIC
+http://stream.tvcdn.net/muzik/dream-turk.m3u8
+#EXTINF:0,NUMBER ONE TV
+#EXTGRP:MUSIC
+http://stream.tvcdn.net/muzik/number-one-tv.m3u8
+#EXTINF:0,NUMBER ONE TURK
+#EXTGRP:MUSIC
+http://stream.tvcdn.net/muzik/number-one-turk.m3u8
+#EXTINF:0,TMB
+#EXTGRP:MUSIC
+http://stream.tvcdn.net/muzik/tmb.m3u8
+#EXTINF:0,SUPER TURK MUSIC
+#EXTGRP:MUSIC
+http://stream.tvcdn.net/diger-eglence/superturk-tv.m3u8
+#EXTINF:0,POWER TURK SLOW
+#EXTGRP:MUSIC
+https://listen.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:0,POWER TURK TAPTAZE
+#EXTGRP:MUSIC
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:0,POWER TURK
+#EXTGRP:MUSIC
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playlist.m3u8
+#EXTINF:0,TATLISES TV
+#EXTGRP:MUSIC
+http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3ERH8M38H92TK4/6872/index.m3u8
+#EXTINF:0,MUZIK OK
+#EXTGRP:MUSIC
+https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
+#EXTINF:0,cbc sport
+#EXTGRP:Ehtiyat Kanallar
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
