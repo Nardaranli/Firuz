@@ -89,6 +89,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
 #EXTINF:0,ATV AVRUPA
 #EXTGRP:Turksat
 http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8
+#EXTINF:0,A2 AVRUPA
 #EXTGRP:Turksat
 http://stream.tvcdn.net/eglence/a2.m3u8
 #EXTINF:0,STAR TV
@@ -463,6 +464,7 @@ https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
 #EXTINF:0,cbc sport
 #EXTGRP:Ehtiyat Kanallar
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+
 
 
 
