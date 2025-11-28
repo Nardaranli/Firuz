@@ -86,9 +86,11 @@ https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:0,ATV
 #EXTGRP:Turksat
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
+
 #EXTINF:0,ATV AVRUPA
 #EXTGRP:Turksat
 http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8
+
 #EXTINF:0,A2
 #EXTGRP:Turksat
 http://stream.tvcdn.net/eglence/a2.m3u8
