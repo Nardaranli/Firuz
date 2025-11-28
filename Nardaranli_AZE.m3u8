@@ -175,7 +175,7 @@ https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 https://new.cache-stream.workers.dev/stream/X_EWYemclKA/live.m3u8
 #EXTINF:0,Sahar Tv
 #EXTGRP:Dini
-https://nl2-cdn.sepehrtv.org/securelive3/saharazarsd/576p.m3u8?s=gZn7Vqz_9N337Owu8J10-A&amp;t=1764197610
+https://lb-cdn.sepehrtv.ir/securelive3/saharazarsd/saharazarsd.m3u8?s=Mz0n-SBB85ZGihrucm_Jdw&t=1764371215
 #EXTINF:0,Hadi TV3 (azrbaycanca)1
 #EXTGRP:Dini
 https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
@@ -464,3 +464,4 @@ https://muzzik-live.morescreens.com/mts-2/playlist.m3u8
 #EXTINF:0,cbc sport
 #EXTGRP:Ehtiyat Kanallar
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+
