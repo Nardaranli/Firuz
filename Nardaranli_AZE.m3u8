@@ -237,9 +237,7 @@ https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 #EXTINF:0,Kudus Falastin
 #EXTGRP:Dini
 https://video2archives.earthcam.com/archives/_definst_/MP4:permanent/7949/2021/09/08/1300.mp4/chunklist_w2059496197.m3u8
-#EXTINF:0,Al manar
-#EXTGRP:Dini
-https://manar.live/x.smil/tracks-v1a1/mono.m3u8
+
 #EXTINF:0,Tabii Spor
 #EXTGRP:Futboll
 https://hlssssssss.verdimdalgayihocam.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-1.m3u8
